@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>ремонт сотовых телефонов</title>
-        <link rel="styleshesheet" href="style.css"/>
+        <link rel="stylesheet" href="style.css"/>
         </head>
     <body>
         <header>
